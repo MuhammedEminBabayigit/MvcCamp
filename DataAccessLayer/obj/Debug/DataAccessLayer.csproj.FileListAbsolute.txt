@@ -16,3 +16,21 @@ C:\Users\EMIN\source\repos\Developerland\DataAccessLayer\obj\Debug\DataAccessLay
 C:\Users\EMIN\source\repos\DeveloperLand\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 C:\Users\EMIN\source\repos\DeveloperLand\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
 C:\Users\EMIN\source\repos\DeveloperLand\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig2.resources
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\bin\Debug\EntityLayer.dll
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\bin\Debug\EntityLayer.pdb
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig2.resources
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\ADMİN\A Udemy\Developerland\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
