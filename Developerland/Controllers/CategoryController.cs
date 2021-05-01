@@ -16,16 +16,21 @@ namespace Developerland.Controllers
         {
             return View();
         }
-        [HttpGet]
+      
         public ActionResult GetCategoryList()
         {
-            var categoryValues = cm.GetAll();
-            return View(categoryValues);
+            //var categoryValues = cm.GetAll();
+            return View();
+        }
+        [HttpGet]
+        public ActionResult AddCategory()
+        {
+            return View();
         }
         [HttpPost]
         public ActionResult AddCategory(Category category)
         {
-            cm.CategoryAdd(category);
+            //cm.CategoryAdd(category);
             return RedirectToAction("GetCategoryList");
         }
     }
