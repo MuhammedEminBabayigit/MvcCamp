@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<h2>İstatistik Sayfası - Statistics Page</h2>
+<br />
+<br />
+<div class="card text-white bg-primary mb-3" style="min-width: 18rem;max-width: 18rem;float:left;margin-right:50px">
+    <div class="card-header">Toplam Kategori Sayısı</div>
+    <div class="card-body">
+        <p class="card-text">@ViewBag.KategoriSayisi</p>
+    </div>
+</div>
+<div class="card text-white bg-secondary mb-3" style="min-width: 18rem;max-width: 18rem;float:left;margin-right:50px">
+    <div class="card-header">"Html" kategorisine ait başlık sayısı</div>
+    <div class="card-body">
+        <p class="card-text">@ViewBag.PostSayisi</p>
+    </div>
+</div>
+<div class="card text-white bg-success mb-3" style="min-width: 18rem;max-width: 18rem;float:left;margin-right:50px">
+    <div class="card-header">Yazar adında 'a' harfi geçen yazar sayısı</div>
+    <div class="card-body">
+        <p class="card-text">@ViewBag.YazarSayisi</p>
+    </div>
+</div>
+<div class="card text-white bg-danger mb-3" style="min-width: 18rem;max-width: 18rem;float:left;margin-right:50px">
+    <div class="card-header">En fazla başlığa sahip kategori adı</div>
+    <div class="card-body">
+        <p class="card-text">@ViewBag.KategoriFiltreli</p>
+    </div>
+</div>
+<div class="card text-dark bg-warning mb-3" style="min-width: 18rem;max-width: 18rem;float:left;margin-right:50px">
+    <div class="card-header">True olan kategoriler ile false olan kategoriler arasındaki sayısal fark</div>
+    <div class="card-body">
+        <p class="card-text">@ViewBag.TrueFalseFarki</p>
+    </div>
+</div>
+
